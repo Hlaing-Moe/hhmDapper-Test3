@@ -19,7 +19,7 @@ namespace hhmDapper_Test3
             Password = "sasa@123",
             TrustServerCertificate = true
         };
-      
+//private object results;
 
         public void Read()
         {
